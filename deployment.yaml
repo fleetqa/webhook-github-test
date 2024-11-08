@@ -5,7 +5,7 @@ metadata:
   labels:
     app: fleet-nginx
     dev: testing
-  name: fleet-nginx
+  name: fleet-nginx-webhook
 spec:
   replicas: 2
   selector:
